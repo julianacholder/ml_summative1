@@ -1,4 +1,4 @@
-Optimization Using Gradient Descent: Linear Regression
+# Optimization Using Gradient Descent: Linear Regression
 
 This project demonstrates linear regression to predict sales based on TV marketing expenses. We explore three approaches:
 
